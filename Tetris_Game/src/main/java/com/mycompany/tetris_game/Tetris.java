@@ -1,13 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
+
 
 package com.mycompany.tetris_game;
-
-/**
- *
- * @author Pranay Rokade
- */
 
 import java.awt.BorderLayout; 
 import java.awt.EventQueue;
